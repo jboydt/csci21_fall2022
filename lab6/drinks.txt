@@ -1,0 +1,5 @@
+water:5
+soda:1
+juice:4
+coffee:3
+tea:2
