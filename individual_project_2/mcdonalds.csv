@@ -1,4 +1,4 @@
-restaurant,item,calories,cal_fat,total_fat,sat_fat,trans_fat,cholesterol,sodium,total_carb,fiber,sugar,protein,vit_a,vit_c,calcium,salad
+#restaurant,item,calories,cal_fat,total_fat,sat_fat,trans_fat,cholesterol,sodium,total_carb,fiber,sugar,protein,vit_a,vit_c,calcium,salad
 Mcdonalds,Artisan Grilled Chicken Sandwich,380,60,7,2,0,95,1110,44,3,11,37,4,20,20,Other
 Mcdonalds,Single Bacon Smokehouse Burger,840,410,45,17,1.5,130,1580,62,2,18,46,6,20,20,Other
 Mcdonalds,Double Bacon Smokehouse Burger,1130,600,67,27,3,220,1920,63,3,18,70,10,20,50,Other
@@ -127,11 +127,11 @@ Sonic,4 Piece Super Crunch Chicken Strips,440,190,21,4,0,70,900,34,2,1,29,1,2,1,
 Sonic,5 Piece Super Crunch Chicken Strips,550,240,26,5,0,90,1120,42,3,1,36,1,3,2,Other
 Sonic,Traditional Ultimate Chicken Sandwich,730,350,39,8,0,90,1540,62,3,11,32,4,2,15,Other
 Sonic,Ultimate Chicken Club,100,580,64,15,0.5,100,2070,65,4,12,39,15,8,30,Other
-Sonic,"All Beef All-american Style Dog – 6""",370,160,18,7,0,40,1180,40,1,15,12,2,4,8,Other
-Sonic,"All Beef Chicago Dog – 6""",430,180,20,7,0,40,2310,49,1,17,14,4,6,10,Other
-Sonic,"All Beef Chili Cheese Coney – 6""",410,230,26,11,0,65,1140,30,2,4,17,10,2,20,Other
-Sonic,"All Beef New York Dog – 6""",340,170,19,7,0,40,1250,30,3,4,13,2,10,8,Other
-Sonic,"All Beef Regular Hot Dog – 6""",320,160,18,7,0,40,870,27,1,3,11,0,2,8,Other
+Sonic,All Beef All-american Style Dog – 6,370,160,18,7,0,40,1180,40,1,15,12,2,4,8,Other
+Sonic,All Beef Chicago Dog – 6,430,180,20,7,0,40,2310,49,1,17,14,4,6,10,Other
+Sonic,All Beef Chili Cheese Coney – 6,410,230,26,11,0,65,1140,30,2,4,17,10,2,20,Other
+Sonic,All Beef New York Dog – 6,340,170,19,7,0,40,1250,30,3,4,13,2,10,8,Other
+Sonic,All Beef Regular Hot Dog – 6,320,160,18,7,0,40,870,27,1,3,11,0,2,8,Other
 Sonic,Cheesy Bacon Pretzel Dog - 6 In.,500,240,26,10,0,50,1410,46,2,7,15,1,3,8,Other
 Sonic,Corn Dog,210,100,11,4,0,20,530,23,2,4,6,0,0,4,Other
 Sonic,Footlong Quarter Pound Coney,830,490,54,22,1,85,1940,54,3,9,30,15,4,30,Other
@@ -167,8 +167,8 @@ Arbys,Reuben Sandwich,680,280,31,8,0.5,80,2420,62,4,5,37,6,20,35,Other
 Arbys,Roast Beef Gyro,550,260,29,7,1,60,1290,48,3,5,24,10,15,10,Other
 Arbys,Roast Turkey & Swiss Sandwich,710,260,28,7,0,65,1930,79,5,15,38,20,10,45,Other
 Arbys,Roast Turkey & Swiss Wrap,520,240,27,9,0,65,1640,39,4,6,30,20,10,35,Other
-Arbys,"Roast Turkey, Ranch & Bacon Sandwich",800,310,34,10,0.5,80,2420,79,5,16,45,20,10,45,Other
-Arbys,"Roast Turkey, Ranch & Bacon Wrap",620,310,34,11,0.5,85,2130,39,4,6,37,20,10,30,Other
+Arbys,Roast Turkey Ranch & Bacon Sandwich,800,310,34,10,0.5,80,2420,79,5,16,45,20,10,45,Other
+Arbys,Roast Turkey Ranch & Bacon Wrap,620,310,34,11,0.5,85,2130,39,4,6,37,20,10,30,Other
 Arbys,Smoke Mountain w/ Beef Short Rib,740,320,35,13,1,125,2050,62,4,17,43,NA,NA,NA,Other
 Arbys,Smokehouse Beef Short Rib Sandwich,590,250,59,10,1,75,1510,59,4,14,26,NA,NA,NA,Other
 Arbys,Smokehouse Brisket,600,310,35,12,1,110,1240,42,2,7,33,4,8,20,Other
@@ -227,10 +227,10 @@ Burger King,Chicken BLT Salad w/ Grilled Chicken,550,330,37,10,0,115,1640,17,3,5
 Burger King,Chicken BLT Salad w/ Crispy Chicken,690,430,48,12,1,100,1750,31,4,8,35,NA,NA,NA,Other
 Burger King,Chicken Caesar Salad w/ Grilled Chicken,530,290,32,5,0,95,1640,26,3,6,35,NA,NA,NA,Other
 Burger King,Chicken Caesar Salad w/ Crispy Chicken,670,380,43,7,0,80,1760,40,5,8,34,NA,NA,NA,Other
-Burger King,"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",560,270,30,7,0,90,980,40,4,34,29,NA,NA,NA,Other
-Burger King,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700,370,41,9,0,80,1090,54,5,37,28,NA,NA,NA,Other
-Burger King,"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",320,120,14,6,0,115,650,16,2,4,36,NA,NA,NA,Other
-Burger King,"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",450,220,24,7,0,85,1070,30,5,6,29,NA,NA,NA,Other
+Burger King,Chicken Apple & Cranberry Salad w/ Grilled Chicken,560,270,30,7,0,90,980,40,4,34,29,NA,NA,NA,Other
+Burger King,Chicken Apple & Cranberry Salad w/ Crispy Chicken,700,370,41,9,0,80,1090,54,5,37,28,NA,NA,NA,Other
+Burger King,Garden Grilled Chicken Salad w/ Grilled Chicken no dressing,320,120,14,6,0,115,650,16,2,4,36,NA,NA,NA,Other
+Burger King,Garden Grilled Chicken Salad w/ Crispy Chicken no dressing,450,220,24,7,0,85,1070,30,5,6,29,NA,NA,NA,Other
 Burger King,Side Caesar Salad with dressing,220,180,20,4,0,10,540,7,2,3,6,NA,NA,NA,Other
 Burger King,Side Garden Salad and Avocado Ranch Dressing,230,190,21,5,0,30,520,7,2,3,5,NA,NA,NA,Other
 Burger King,Bacon Cheddar Ranch Crispy Chicken Sandwich,830,468,52,14,0.5,110,2100,57,NA,9,34,NA,NA,NA,Other
@@ -303,69 +303,69 @@ Dairy Queen,Grilled Chicken Sandwich,360,140,15,3,0,50,1040,32,1,5,25,10,8,6,Oth
 Dairy Queen,Grilled Chicken Wrap,280,130,15,4,0,30,800,22,1,1,15,10,4,10,Other
 Dairy Queen,Side Salad,20,0,0,0,0,0,15,5,2,3,1,50,30,15,Other
 Dairy Queen,Turkey BLT Sandwich,550,240,26,8,0,60,1420,45,3,3,30,NA,NA,NA,Other
-Subway,"6"" B.L.T.",320,80,9,4,0,20,680,43,5,6,15,8,8,30,Other
+Subway,6" B.L.T.,320,80,9,4,0,20,680,43,5,6,15,8,8,30,Other
 Subway,Footlong B.L.T.,640,160,18,8,0,40,1360,86,10,12,30,16,16,60,Other
-Subway,"6"" BBQ Rib Sandwich",430,160,18,6,0,50,590,47,5,8,19,8,20,30,Other
+Subway,6" BBQ Rib Sandwich,430,160,18,6,0,50,590,47,5,8,19,8,20,30,Other
 Subway,Footlong BBQ Rib Sandwich,860,320,36,12,0,100,1180,94,10,16,38,16,40,60,Other
-Subway,"6"" Big Hot Pastrami",580,310,31,11,0,85,1470,47,5,7,29,10,45,40,Other
+Subway,6" Big Hot Pastrami,580,310,31,11,0,85,1470,47,5,7,29,10,45,40,Other
 Subway,Footlong Big Hot Pastrami,1160,620,62,22,0,170,2940,94,10,14,58,20,90,80,Other
-Subway,"6"" Big Philly Cheesesteak",500,150,17,9,1,85,1310,51,6,8,38,15,20,50,Other
+Subway,6" Big Philly Cheesesteak,500,150,17,9,1,85,1310,51,6,8,38,15,20,50,Other
 Subway,Footlong Big Philly Cheesesteak,1000,300,34,18,2,170,2620,102,12,16,76,30,40,100,Other
 Subway,Kids Mini Sub Black Forest Ham,180,20,3,0.5,0,10,450,30,3,5,10,6,15,20,Other
-Subway,"6"" Black Forest Ham",290,40,5,1,0,20,830,46,5,8,18,8,20,30,Other
+Subway,6" Black Forest Ham,290,40,5,1,0,20,830,46,5,8,18,8,20,30,Other
 Subway,Footlong Black Forest Ham,580,80,10,2,0,40,1660,92,10,16,36,16,40,60,Other
-Subway,"6"" Carved Turkey",330,45,5,1,0,45,890,45,5,7,25,8,20,30,Other
+Subway,6" Carved Turkey,330,45,5,1,0,45,890,45,5,7,25,8,20,30,Other
 Subway,Footlong Carved Turkey,660,90,10,2,0,90,1780,90,10,14,50,16,40,60,Other
-Subway,"6"" Carved Turkey & Bacon w/ Cheese",570,230,26,7,0,70,1600,46,5,8,33,10,20,40,Other
+Subway,6" Carved Turkey & Bacon w/ Cheese,570,230,26,7,0,70,1600,46,5,8,33,10,20,40,Other
 Subway,Footlong Carved Turkey & Bacon w/ Cheese,1140,460,52,14,0,140,3200,92,10,16,66,20,40,80,Other
-Subway,"6"" Chicken & Bacon Ranch Melt",570,250,28,10,1,95,1080,47,5,8,35,15,25,50,Other
+Subway,6" Chicken & Bacon Ranch Melt,570,250,28,10,1,95,1080,47,5,8,35,15,25,50,Other
 Subway,Footlong Chicken & Bacon Ranch Melt,1140,500,56,20,2,190,2160,94,10,16,70,30,50,100,Other
-Subway,"6"" Chicken Pizziola Melt",460,140,16,6,0,80,1140,49,6,9,32,15,30,45,Other
+Subway,6" Chicken Pizziola Melt,460,140,16,6,0,80,1140,49,6,9,32,15,30,45,Other
 Subway,Footlong Chicken Pizziola Melt,920,280,32,12,0,160,2280,98,12,18,64,30,60,90,Other
-Subway,"6"" Cold Cut Combo",370,120,13,4,0,50,1140,46,5,7,18,10,20,35,Other
+Subway,6" Cold Cut Combo,370,120,13,4,0,50,1140,46,5,7,18,10,20,35,Other
 Subway,Footlong Cold Cut Combo,740,240,26,8,0,100,2280,92,10,14,36,20,40,70,Other
-Subway,"6"" Corned Beef Reuben",470,130,15,4.5,0,85,1770,45,7,12,39,10,35,20,Other
+Subway,6" Corned Beef Reuben,470,130,15,4.5,0,85,1770,45,7,12,39,10,35,20,Other
 Subway,Footlong Corned Beef Reuben,940,260,30,9,0,170,3540,90,14,24,78,20,70,40,Other
-Subway,"6"" Italian B.M.T.",410,150,16,6,0,45,1300,46,5,8,20,8,20,30,Other
+Subway,6" Italian B.M.T.,410,150,16,6,0,45,1300,46,5,8,20,8,20,30,Other
 Subway,Footlong Italian B.M.T.,820,300,32,12,0,90,2600,92,10,16,40,16,40,60,Other
-Subway,"6"" Italian Hero",550,260,29,10,0,75,1470,47,5,9,26,10,20,40,Other
+Subway,6" Italian Hero,550,260,29,10,0,75,1470,47,5,9,26,10,20,40,Other
 Subway,Footlong Italian Hero,1100,520,58,20,0,150,2940,94,10,18,52,20,40,80,Other
-Subway,"6"" Meatball Marinara",480,160,18,7,1,30,950,59,8,12,21,25,35,35,Other
+Subway,6" Meatball Marinara,480,160,18,7,1,30,950,59,8,12,21,25,35,35,Other
 Subway,Footlong Meatball Marinara,960,320,36,14,2,60,1900,118,16,24,42,50,70,70,Other
-Subway,"6"" Oven Roasted Chicken",320,40,5,2,0,25,640,47,5,8,23,8,30,30,Other
+Subway,6" Oven Roasted Chicken,320,40,5,2,0,25,640,47,5,8,23,8,30,30,Other
 Subway,Footlong Oven Roasted Chicken,640,80,10,4,0,50,1280,44,10,16,46,16,60,60,Other
 Subway,Kids Mini Sub Roast Beef,200,25,3,1,0,25,390,30,4,5,14,6,15,20,Other
-Subway,"6"" Roast Beef",320,40,5,2,0,40,700,45,5,7,24,8,20,30,Other
+Subway,6" Roast Beef,320,40,5,2,0,40,700,45,5,7,24,8,20,30,Other
 Subway,Footlong Roast Beef,640,80,10,4,0,80,1400,90,10,14,48,16,40,60,Other
-Subway,"6"" Rotisserie Style Chicken",350,50,6,1.5,0,50,540,44,5,7,29,8,20,30,Other
+Subway,6" Rotisserie Style Chicken,350,50,6,1.5,0,50,540,44,5,7,29,8,20,30,Other
 Subway,Footlong Rotisserie Style Chicken,700,100,12,3,0,100,1080,88,10,14,58,16,40,60,Other
-Subway,"6"" Spicy Italian",480,220,24,9,1,50,1520,46,5,8,20,8,20,30,Other
+Subway,6" Spicy Italian,480,220,24,9,1,50,1520,46,5,8,20,8,20,30,Other
 Subway,Footlong Spicy Italian,960,440,48,18,2,100,3040,92,10,16,40,16,40,60,Other
-Subway,"6"" Steak and Cheese",380,90,10,5,0,50,1060,48,5,8,26,10,20,40,Other
+Subway,6" Steak and Cheese,380,90,10,5,0,50,1060,48,5,8,26,10,20,40,Other
 Subway,Footlong Steak and Cheese,760,180,20,10,0,100,2120,96,10,16,52,20,40,80,Other
-Subway,"6"" Subway Club",310,40,5,2,0,40,880,46,5,7,23,8,20,30,Other
+Subway,6" Subway Club,310,40,5,2,0,40,880,46,5,7,23,8,20,30,Other
 Subway,Footlong Subway Club,620,80,10,4,0,80,1760,92,10,14,46,16,40,60,Other
-Subway,"6"" Subway Melt (includes cheese)",370,100,11,5,0,45,1210,47,5,8,23,10,20,40,Other
+Subway,6" Subway Melt (includes cheese),370,100,11,5,0,45,1210,47,5,8,23,10,20,40,Other
 Subway,Footlong Subway Melt (includes cheese),740,200,22,10,0,90,1420,94,10,16,46,20,40,80,Other
-Subway,"6"" Subway Seafood Sensation",420,170,19,3,0,20,690,51,5,8,13,10,20,35,Other
+Subway,6" Subway Seafood Sensation,420,170,19,3,0,20,690,51,5,8,13,10,20,35,Other
 Subway,Footlong Subway Seafood Sensation,840,340,38,6,0,40,1380,102,10,16,26,20,40,70,Other
-Subway,"6"" Sweet Onion Chicken Teriyaki",380,40,5,1,0,50,900,59,5,18,26,8,30,35,Other
+Subway,6" Sweet Onion Chicken Teriyaki,380,40,5,1,0,50,900,59,5,18,26,8,30,35,Other
 Subway,Footlong Sweet Onion Chicken Teriyaki,760,80,10,2,0,100,1800,118,10,36,52,16,60,70,Other
-Subway,"6"" Tuna",470,210,24,4,0,30,620,44,5,6,20,8,20,30,Other
+Subway,6" Tuna,470,210,24,4,0,30,620,44,5,6,20,8,20,30,Other
 Subway,Footlong Tuna,940,420,48,8,0,60,1240,88,10,12,40,16,40,60,Other
-Subway,"6"" Turkey & Bacon Avocado",390,110,13,3.5,0,30,860,49,8,7,22,10,200,30,Other
+Subway,6" Turkey & Bacon Avocado,390,110,13,3.5,0,30,860,49,8,7,22,10,200,30,Other
 Subway,Footlong Turkey & Bacon Avocado,780,220,26,7,0,60,1720,98,16,14,44,20,400,60,Other
 Subway,Kids Mini Sub Turkey Breast,180,20,2,0.5,0,10,380,30,3,5,10,6,15,20,Other
-Subway,"6"" Turkey Breast",280,30,4,1,0,20,810,46,5,7,18,8,20,30,Other
+Subway,6" Turkey Breast,280,30,4,1,0,20,810,46,5,7,18,8,20,30,Other
 Subway,Footlong Turkey Breast,560,60,8,2,0,40,1620,92,10,14,36,16,40,60,Other
-Subway,"6"" Turkey Breast & Ham",280,35,4,1,0,20,820,46,5,8,18,8,20,30,Other
+Subway,6" Turkey Breast & Ham,280,35,4,1,0,20,820,46,5,8,18,8,20,30,Other
 Subway,Footlong Turkey Breast & Ham,560,70,8,2,0,40,1640,92,10,16,36,16,40,60,Other
-Subway,"6"" Turkey Italiano Melt (with Provolone)",490,210,24,9,1,50,1480,47,5,8,24,10,20,45,Other
+Subway,6" Turkey Italiano Melt (with Provolone),490,210,24,9,1,50,1480,47,5,8,24,10,20,45,Other
 Subway,Footlong Turkey Italiano Melt (with Provolone),980,420,48,18,2,100,2960,94,10,16,48,20,40,90,Other
 Subway,Kids Mini Sub Veggie Delite,150,15,2,0,0,0,190,29,3,4,6,6,15,20,Other
-Subway,"6"" Veggie Delite",230,20,3,1,0,0,310,44,5,6,8,8,20,30,Other
+Subway,6" Veggie Delite,230,20,3,1,0,0,310,44,5,6,8,8,20,30,Other
 Subway,Footlong Veggie Delite,460,40,6,2,0,0,620,88,10,12,16,16,40,60,Other
-Subway,"6"" Veggie Patty",390,70,7,1,0,10,800,56,8,8,23,15,20,35,Other
+Subway,6" Veggie Patty,390,70,7,1,0,10,800,56,8,8,23,15,20,35,Other
 Subway,Footlong Veggie Patty,780,140,14,2,0,20,1600,112,16,16,46,30,20,70,Other
 Subway,Autumn Carved Turkey Salad,300,80,9,3,0,60,1120,26,3,22,25,40,40,15,Other
 Subway,B.L.T. Salad,150,70,8,4,0,20,420,10,4,5,10,50,50,6,Other
@@ -394,7 +394,7 @@ Subway,Turkey Breast Salad,110,20,2,1,0,20,570,11,4,5,12,25,45,6,Other
 Subway,Veggie Delite Salad,50,10,1,0,0,0,65,9,4,4,3,25,45,4,Other
 Subway,Chipotle Southwest Steak & Cheese Wrap,760,330,37,12,1,100,2250,65,4,7,43,15,45,30,Other
 Subway,Rotisserie-Style Chicken Caesar Wrap,730,310,34,10,0.5,135,1900,53,3,4,55,15,8,45,Other
-Subway,"Turkey, Bacon & Guacamole Wrap",810,380,42,13,0.5,75,2970,62,3,6,43,10,30,30,Other
+Subway,Turkey Bacon & Guacamole Wrap,810,380,42,13,0.5,75,2970,62,3,6,43,10,30,30,Other
 Subway,Cheese & Veggies Pizza,740,230,25,11,0,50,1270,100,5,9,36,35,30,60,Other
 Subway,Cheese Pizza,680,200,22,9,0,40,1070,96,4,7,32,25,4,45,Other
 Subway,Pepperoni Pizza,790,290,32,13,0,60,1350,96,4,8,38,30,4,60,Other
