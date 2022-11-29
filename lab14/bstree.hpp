@@ -9,46 +9,48 @@ using std::cout;
 using std::endl;
 
 template <typename T>
-class BSTree {
+class BSTree
+{
 public:
   // Default constructor.
   // Initialize the tree with size 0 and null root.
-  BSTree() {
-
+  BSTree()
+  {
   }
 
   // Destructor.
   // Clear the tree.
-  ~BSTree() {
-
+  ~BSTree()
+  {
   }
 
   // Returns the size (number of nodes) of this tree.
-  unsigned int getSize() {
-
+  unsigned int getSize()
+  {
   }
 
   // Clear the tree of all nodes. Reset head to nullptr and size to 0.
-  void clear() {
-
+  void clear()
+  {
   }
 
   // Insert the data in the tree. Returns true if the data is not a
   // duplicate, and can be inserted. Returns false otherwise.
-  bool insert(T data) {
-
+  bool insert(T data)
+  {
   }
 
   // Print the data in the tree to STDOUT, in-order (ascending).
-  void printInOrder() {
-
+  void printInOrder()
+  {
   }
 
 private:
   unsigned int size; // the number of nodes in the tree
 
   // A binary search tree node with constructor.
-  struct Node {
+  struct Node
+  {
     T data;
     Node *leftChild;
     Node *rightChild;
@@ -58,15 +60,15 @@ private:
 
   // Helper functions to hide internal node pointers from the public API.
 
-  void clear(Node *&troot) {
-
+  void clear(Node *&troot)
+  {
   }
 
-  bool insert(T newData, Node *&troot) {
-
+  bool insert(T newData, Node *&troot)
+  {
   }
 
-  void printInOrder(Node *troot) {
-
+  void printInOrder(Node *troot)
+  {
   }
 };
